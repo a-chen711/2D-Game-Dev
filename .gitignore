@@ -14,6 +14,12 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+# Unnecessary Assets
+/Assets/BayatGames/
+/Assets/Bringer Of Death/
+/Assets/Hero Knight - Pixel Art/
+/Assets/Medieval King Pack 2/
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
