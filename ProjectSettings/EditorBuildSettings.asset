@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Level 2.unity
     guid: d4c7967f9acb8874ba40b5dbc6fcb757
-  - enabled: 1
-    path: Assets/Scenes/Flappy Bird.unity
+  - enabled: 0
+    path: Assets/Scenes/Flappy Bird/Flappy Bird.unity
     guid: a9cae965266b05b4184690021606139f
+  - enabled: 1
+    path: Assets/Scenes/sunnyland.unity
+    guid: bf8c1d9c8a911da42ba9506948c6e415
   m_configObjects: {}
