@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Test Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 0
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Test Scenes/Level 1.unity
     guid: a413e89148bda7343b63a570acacef57
   - enabled: 0
-    path: Assets/Scenes/Level 2.unity
+    path: Assets/Scenes/Test Scenes/Level 2.unity
     guid: d4c7967f9acb8874ba40b5dbc6fcb757
   - enabled: 0
     path: Assets/Scenes/Flappy Bird/Flappy Bird.unity
