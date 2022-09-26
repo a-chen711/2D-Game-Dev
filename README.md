@@ -3,4 +3,4 @@ I have always had a passion for video games, and since I've accumulated enough k
 
 Projects:
 - [Flappy Bird Replica](https://sites.google.com/view/a-chen711/projects-publications/game-development-projects/flappy-bird-remake?authuser=0) - Practice Project
-- Sunnyland 2D Platformer - **WIP**
+- Sunnyland 2D Platformer - **WIP as of 9/23/22**
